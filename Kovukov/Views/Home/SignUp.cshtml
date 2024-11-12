@@ -1,0 +1,56 @@
+﻿@model Kovukov.Models.Customers
+
+@{
+    ViewData["Title"] = "Регистрация";
+}
+
+<h2>Регистрация</h2>
+
+<form asp-action="SignUp" asp-controller="Home" method="post" novalidate>
+    <div class="form-group">
+        <label asp-for="@Model.first_name"></label>
+        <input asp-for="@Model.first_name" class="form-control" />
+        <span asp-validation-for="first_name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.last_name"></label>
+        <input asp-for="@Model.last_name" class="form-control" />
+        <span asp-validation-for="last_name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.email"></label>
+        <input asp-for="@Model.email" class="form-control" />
+        <span asp-validation-for="email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.passwords"></label>
+        <input asp-for="@Model.passwords" class="form-control" type="passwords" />
+        <span asp-validation-for="passwords" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.phone"></label>
+        <input asp-for="@Model.phone" class="form-control" type="passwords" />
+        <span asp-validation-for="phone" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.addresss"></label>
+        <input asp-for="@Model.addresss" class="form-control" type="passwords" />
+        <span asp-validation-for="addresss" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.role_name"></label>
+        <input asp-for="@Model.role_name" class="form-control" type="passwords" />
+        <span asp-validation-for="role_name" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Зарегистрироваться</button>
+</form>
+
+<div>
+    <a asp-action="SignIn">Уже есть аккаунт? Войти</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

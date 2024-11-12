@@ -1,0 +1,55 @@
+﻿@model Kovukov.Models.Customers
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Магазин гитар</title>
+    <link rel="stylesheet" href="~/css/styles.css" />
+</head>
+<body>
+    <h1>@ViewBag.Greeting</h1>
+    <a style="color: green" href="@Url.Action("Logout")">Выход</a>
+
+
+    <header class="header">
+        <div class="container">
+            <h1>Магазин гитар</h1>
+            <p class="tagline">Ваш источник вдохновения для музыки</p>
+        </div>
+        
+    </header>
+
+    <main>
+        <section class="welcome">
+            <div class="container">
+                <h2>Добро пожаловать в наш магазин!</h2>
+                <p>Мы предлагаем широкий ассортимент акустических, электрических и бас-гитар. Приходите к нам и выберите инструмент, который будет вдохновлять вас на создание музыки.</p>
+            </div>
+        </section>
+
+        <section class="products">
+            <div class="container">
+                <h2>Наши товары</h2>
+                <ul>
+                    <li>Акустическая гитара Yamaha F310</li>
+                    <li>Электрогитара Fender Stratocaster</li>
+                    <li>Бас-гитара Ibanez SR300E</li>
+                    <li>Гитара для начинающих Squier by Fender</li>
+                </ul>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>© 2024 Магазин гитар - Все права защищены.</p>
+        </div>
+    </footer>
+</body>
+</html>

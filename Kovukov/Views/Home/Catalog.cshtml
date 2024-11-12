@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Products>
+
+<!DOCTYPE html>
+<html lang="ru">
+    <body class="catalog-body">
+        <div>
+            <h2>Каталог продуктов</h2>
+            <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+                @foreach (var product in Model)
+                {
+                    <div class="product-card">
+                        <img src="@Url.Content(product.images)" alt="@product.named" />
+                        <h5>@product.named</h5>
+                        <p>Цена: @product.price.ToString("C")</p>
+                        <a href="#" class="button">Купить</a>
+                    </div>
+                }
+            </div>
+        </div>
+    </body>
+</html>
+

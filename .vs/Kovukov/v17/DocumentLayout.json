@@ -1,0 +1,536 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\views\\home\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\views\\home\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\views\\home\\prof.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\views\\home\\prof.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\models\\order_items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\models\\order_items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\models\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\models\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\wwwroot\\media\\guitarcort.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\wwwroot\\media\\guitarcort.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\wwwroot\\media\\guitargibson.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\wwwroot\\media\\guitargibson.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\wwwroot\\media\\guitaribanez.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\wwwroot\\media\\guitaribanez.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\wwwroot\\media\\guitarstrat.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\wwwroot\\media\\guitarstrat.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\kovukov.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\kovukov.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|c:\\users\\user\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\kovukov\\kovukov\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CA6CAC2-EFBE-4D8A-AF8A-41307EA6DC2A}|Kovukov\\Kovukov.csproj|solutionrelative:kovukov\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prof.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Views\\Home\\Prof.cshtml",
+              "RelativeDocumentMoniker": "Kovukov\\Views\\Home\\Prof.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Views\\Home\\Prof.cshtml",
+              "RelativeToolTip": "Kovukov\\Views\\Home\\Prof.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T06:44:49.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Views\\Home\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Kovukov\\Views\\Home\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Views\\Home\\SignUp.cshtml",
+              "RelativeToolTip": "Kovukov\\Views\\Home\\SignUp.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T08:15:38.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Views\\Home\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "Kovukov\\Views\\Home\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Views\\Home\\SignIn.cshtml",
+              "RelativeToolTip": "Kovukov\\Views\\Home\\SignIn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T07:41:48.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Kovukov\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Kovukov\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T15:42:15.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Kovukov\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Kovukov\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T09:36:38.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Kovukov\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Kovukov\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T09:46:56.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Kovukov\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Kovukov\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA/wIMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T09:20:14.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Kovukov\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Kovukov\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T09:18:41.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Kovukov\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Kovukov\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAJoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-13T09:47:46.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Models\\Customers.cs",
+              "RelativeDocumentMoniker": "Kovukov\\Models\\Customers.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Models\\Customers.cs",
+              "RelativeToolTip": "Kovukov\\Models\\Customers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:16:11.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Kovukov\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Kovukov\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T09:20:16.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\appsettings.json",
+              "RelativeDocumentMoniker": "Kovukov\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\appsettings.json",
+              "RelativeToolTip": "Kovukov\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T09:27:08.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Program.cs",
+              "RelativeDocumentMoniker": "Kovukov\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Program.cs",
+              "RelativeToolTip": "Kovukov\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T09:21:27.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Models\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Kovukov\\Models\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Models\\AppDBContext.cs",
+              "RelativeToolTip": "Kovukov\\Models\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:21:47.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Kovukov\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Kovukov\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:31:13.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order_Items.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Models\\Order_Items.cs",
+              "RelativeDocumentMoniker": "Kovukov\\Models\\Order_Items.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Models\\Order_Items.cs",
+              "RelativeToolTip": "Kovukov\\Models\\Order_Items.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:59:37.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Kovukov\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Models\\Products.cs",
+              "RelativeToolTip": "Kovukov\\Models\\Products.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:55:57.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Suppliers.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Models\\Suppliers.cs",
+              "RelativeDocumentMoniker": "Kovukov\\Models\\Suppliers.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Models\\Suppliers.cs",
+              "RelativeToolTip": "Kovukov\\Models\\Suppliers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:54:05.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "Kovukov\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Models\\Orders.cs",
+              "RelativeToolTip": "Kovukov\\Models\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:52:23.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "Kovukov\\Models\\Categories.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Models\\Categories.cs",
+              "RelativeToolTip": "Kovukov\\Models\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:40:47.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GuitarStrat.jpg - Bitmap [564x846, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\wwwroot\\media\\GuitarStrat.jpg",
+              "RelativeDocumentMoniker": "Kovukov\\wwwroot\\media\\GuitarStrat.jpg",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\wwwroot\\media\\GuitarStrat.jpg - Bitmap [564x846, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]",
+              "RelativeToolTip": "Kovukov\\wwwroot\\media\\GuitarStrat.jpg - Bitmap [564x846, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-24T09:53:28.516Z",
+              "EditorCaption": " - Bitmap [564x846, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GuitarCort.jpg - Bitmap [242x500, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\wwwroot\\media\\GuitarCort.jpg",
+              "RelativeDocumentMoniker": "Kovukov\\wwwroot\\media\\GuitarCort.jpg",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\wwwroot\\media\\GuitarCort.jpg - Bitmap [242x500, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]",
+              "RelativeToolTip": "Kovukov\\wwwroot\\media\\GuitarCort.jpg - Bitmap [242x500, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-24T09:53:26.829Z",
+              "EditorCaption": " - Bitmap [242x500, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GuitarIbanez.jpg - Bitmap [564x848, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\wwwroot\\media\\GuitarIbanez.jpg",
+              "RelativeDocumentMoniker": "Kovukov\\wwwroot\\media\\GuitarIbanez.jpg",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\wwwroot\\media\\GuitarIbanez.jpg - Bitmap [564x848, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]",
+              "RelativeToolTip": "Kovukov\\wwwroot\\media\\GuitarIbanez.jpg - Bitmap [564x848, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-24T09:53:23.195Z",
+              "EditorCaption": " - Bitmap [564x848, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GuitarGibson.jpg - Bitmap [564x845, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\wwwroot\\media\\GuitarGibson.jpg",
+              "RelativeDocumentMoniker": "Kovukov\\wwwroot\\media\\GuitarGibson.jpg",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\wwwroot\\media\\GuitarGibson.jpg - Bitmap [564x845, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]",
+              "RelativeToolTip": "Kovukov\\wwwroot\\media\\GuitarGibson.jpg - Bitmap [564x845, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-24T09:53:24.703Z",
+              "EditorCaption": " - Bitmap [564x845, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Kovukov\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Kovukov\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T09:36:39.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Kovukov.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Kovukov.csproj",
+              "RelativeDocumentMoniker": "Kovukov\\Kovukov.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Kovukov.csproj",
+              "RelativeToolTip": "Kovukov\\Kovukov.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T05:25:20.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Kovukov\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0422\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\Kovukov\\Kovukov\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Kovukov\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T09:19:10.386Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
